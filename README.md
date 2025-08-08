@@ -66,14 +66,4 @@ cd projet-reseau
 
 ---
 
-## 📜 Licence
 
-Code & docs → MIT · Topologie & captures → CC BY-NC-SA 4.0  
-Libre à toi de forker, bidouiller et partager (usage commercial ↗ me contacter).
-
----
-
-## 🙋‍♂️ Contact
-
-Une question ou une idée d’amélioration ?  
-Ouvre une issue ou ping **@ton-user** sur GitHub.
